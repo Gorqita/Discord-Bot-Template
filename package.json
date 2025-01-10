@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "![A sleek and modern representation of web app development, showcasing deployment and configuration processes.](https://i.imgur.com/BGJdbwd.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gorqita/Discord-Bot-Template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gorqita/Discord-Bot-Template/issues"
+  },
+  "homepage": "https://github.com/Gorqita/Discord-Bot-Template#readme",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}
